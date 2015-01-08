@@ -1,0 +1,1 @@
+ find . -regex './[a-zA-Z]*' ! -type d | xargs rm 
